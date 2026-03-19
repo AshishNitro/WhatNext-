@@ -5,7 +5,7 @@ A structured checklist roadmap to become a **job-ready Forward Deployed Engineer
 ---
 
 ## 📌 How to Use
-- Study **6–10 hrs/day**
+
 - Focus on **projects > theory**
 - Tick off tasks as you complete them
 
