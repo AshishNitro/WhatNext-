@@ -14,7 +14,7 @@ A structured checklist roadmap to become a **job-ready Forward Deployed Engineer
 # 🧠 PHASE 1: Integration Fundamentals (Week 1–2)
 
 ## ✅ Week 1: APIs + REST Mastery
-- [ ] Understand REST deeply (methods, status codes, idempotency)
+- [✅ ] Understand REST deeply (methods, status codes, idempotency)
 - [ ] Learn pagination, filtering, rate limiting
 - [ ] Learn API versioning strategies
 - [ ] Build a REST API in Node.js (Express)
